@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Software Testing and Web Development
-- 🌱 I’m currently learning Selenium
-- 📫 How to reach me: jannatul.tuba19@gmail.com
+ 🔭 I’m currently working on Software Testing and Web Development
+ 🌱 I’m currently learning Selenium
+ 📫 How to reach me: jannatul.tuba19@gmail.com
 
