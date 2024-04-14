@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jannatul Tuba</h1>
 <h3 align="center">A passionate Software Automation Tester</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Selenide**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JannatulTuba](https://github.com/JannatulTuba)
 
 - 💬 Ask me about **Selenium Webdriver,Java,Software Testing**
-
-- 📫 How to reach me **jannatul.tuba19ad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
