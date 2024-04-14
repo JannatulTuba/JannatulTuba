@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jannatul Tuba</h1>
-<h3 align="center"Software Automation Tester</h3>
+<h3 align="center">Software Automation Tester</h3>
 
 - 🌱 I’m currently working on Software Automation Testing project
 - 👨‍💻 All of my projects are available at [https://github.com/JannatulTuba](https://github.com/JannatulTuba)
